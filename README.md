@@ -13,3 +13,7 @@ Day 4 of x of Pandas: made up for three days I missed and did today's exercise
 * [2. Fictional army](https://github.com/CinnamonXI/Pandas-exercises/tree/main/02%20-%20filtering%20and%20sorting%20data/exercise%203%20-%20Fictional%20Army),
 * [3. Alcohol consumption exercise](https://github.com/CinnamonXI/Pandas-exercises/tree/main/03%20-%20grouping/Alcohol_Consumption) this is on grouping, 
 * [4. Occupation](https://github.com/CinnamonXI/Pandas-exercises/tree/main/03%20-%20grouping/Occupation).
+
+Day 5 of x of Pandas: took the [regiment exercise](https://github.com/CinnamonXI/Pandas-exercises/tree/main/03%20-%20grouping/exercise%2003%20-%20Regiment).
+
+In last 5 days of practicing Pandas, I've learnt about getting familiar with your data, filtering data, sorting data, grouping data. The use of Pandas functions such as `groupby()`, `sort_values()`, `sort()`, `value_counts()`, `counts()`, `set_index()`, `reset_index()`, `loc`, `iloc`, `isin()`, `agg()`, `apply()`, `unstack()`, and `size()`. Although I knew about most of these functions but I didn't know they accpted other parameters. Take for exampple the `reset_index()` takes a parameter *level* which accepts a list. what it does is to bring down the index to whatever level you give to it, you can check for the application [here](https://github.com/CinnamonXI/Pandas-exercises/blob/main/03%20-%20grouping/exercise%2002%20-%20Occupation/solution.ipynb).
