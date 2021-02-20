@@ -21,3 +21,5 @@ In last 5 days of practicing Pandas, I've learnt about getting familiar with you
 Day 6 of x of Pandas: moved on to the apply folder and attempted the [student alcohol consumption exercise](https://github.com/CinnamonXI/Pandas-exercises/tree/main/04%20-%20apply/01%20-%20Students%20Alcohol%20Consumption). 
 
 Day 7 of x of Pandas: concluded the apply exercise two [US crime rates](https://github.com/CinnamonXI/Pandas-exercises/tree/main/04%20-%20apply/02%20-%20US%20Crime%20Rates).
+
+Day 8 of x of Pandas: started merging exercise [Auto MPG](https://github.com/CinnamonXI/Pandas-exercises/tree/main/05%20-%20merge/01%20-%20Auto%20MPG).
