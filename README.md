@@ -24,4 +24,4 @@ Day 7 of x of Pandas: concluded the apply exercise two [US crime rates](https://
 
 Day 8 of x of Pandas: started merging exercise [Auto MPG](https://github.com/CinnamonXI/Pandas-exercises/tree/main/05%20-%20merge/01%20-%20Auto%20MPG).
 
-Day 9 of x of Pandas: attempted [Fictitious Names](https://github.com/CinnamonXI/Pandas-exercises/tree/main/05%20-%20merge/02%20-%20Fictitious%20Names).
+Day 9 of x of Pandas: attempted [Fictitious Names](https://github.com/CinnamonXI/Pandas-exercises/tree/main/05%20-%20merge/02%20-%20Fictitous%20Names).
